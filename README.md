@@ -31,7 +31,7 @@
 5. In <15 seconds → receive **exactly X qUSD**  
 6. Your USD is always redeemable 1:1, forever  
 7. Your QUBIC earns yield forever (you keep half)  
-8. Want out? Burn qUSD → get full USD back + 98% of your original QUBIC + all your earned yield
+8. Want out? Burn qUSD → get full USD back + 95% of your original QUBIC + all your earned yield
 
 ### Wallet screen text 
 
