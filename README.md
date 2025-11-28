@@ -1,43 +1,51 @@
-# qMINT/qUSD – FINAL SYSTEM (Live the second Banxa card rails launch)
+# qMINT/qUSD – COMPLETE SYSTEM  
 
-**Only one way to mint qUSD. Forever.**
+### The mint flow 
 
-| User action                     | Minimum order          | Total cost to user (incl. Banxa ~1–2% spread) | What the protocol receives                               | What the user gets instantly | Peg guarantee                 |
-|---------------------------------|------------------------|------------------------------------------------|-----------------------------------------------------------|------------------------------|-------------------------------|
-| “Buy qUSD with card” (one tap)  | **50 qUSD**            | **$75.00 – $77.50**                            | • $50.00 real USD → Treasury (1:1 backing)<br>• $25.00 – $27.50 worth of QUBIC (the “mint fee”) | **Exactly 50.0000 qUSD**     | 100% backed by the real $50 USD that was just paid |
+| Action in wallet                         | What you deposit                               | Banxa fee (≈1–2%) | Approximate total cost | What you instantly receive | Peg guarantee                     |
+|------------------------------------------|------------------------------------------------|-------------------|-------------------------|----------------------------|-----------------------------------|
+| “Deposit & Mint qUSD” (single screen)    | **$1.00 real USD** + **$0.50 worth of QUBIC**  | Added on top      | **$1.52 – $1.55**       | **Exactly $1.0000 qUSD**   | 100% backed by the real $1 USD you just paid |
 
-### The ~$25–$27.50 QUBIC mint fee is split forever like this
+### What happens to every single cent (100% automatic)
 
-| Percentage | Destination                                 | Purpose                                                                 |
-|------------|---------------------------------------------|-------------------------------------------------------------------------|
-| **50%**    | Locked forever in qEarn                     | Generates perpetual staking yield → paid as **extra APY to anyone who locks their qUSD** |
-| **20%**    | Treasury / project fund                     | CEX listings, audits, marketing, liquidity pairs, partnerships         |
-| **20%**    | Dev team wallet (multi-sig)                 | Pays the builders who ship and maintain everything                      |
-| **10%**    | Immediate QUBIC burn (dead address)         | Pure deflation – the community loves it                                 |
+| Asset you deposit      | Where it goes permanently                          | Who earns yield (if any)                                 | Withdrawal / Redemption rules (anytime you want out)                                                                                                                                                           |
+|-------------------------|----------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **$1.00 real USD**      | Treasury / 1:1 backing reserve                     | No yield                                                 | Burn 1 qUSD → instantly get **$1.00 real USD** sent back to your bank/card via Banxa (or any partner). **Zero protocol fee** – you get the full dollar back forever.                                        |
+| **$0.50 worth of QUBIC**| 100% locked in qEarn (official staking)    | 50% of all staking yield → **you**<br>50% of all yield → **Treasury** | Burn the matching qUSD → unlock your original QUBIC position:<br>• You receive **98%** of the original QUBIC you deposited **+ 100% of the yield you earned**<br>• **2% exit fee** on the original QUBIC amount → Treasury<br>• Plus whatever Banxa charges if you want fiat instead of QUBIC |
 
-### User experience (exact flow)
+### Full fee & revenue breakdown (per $1 qUSD minted)
 
-1. Open official Qubic wallet → “Buy qUSD with card”  
-2. Minimum: 50 qUSD ($75–$77.50 total)  
-3. Pay with debit/credit card (100+ countries)  
-4. In <15 seconds you receive **exactly 50.0000 qUSD**  
-5. That qUSD is **forever backed 1:1 by real USD** in the Treasury  
-6. Optional: lock your qUSD in the built-in staking module → earn yield from the 50% qEarn slice
+| Source                         | Amount (approx.)      | Destination                                 | Purpose / Who benefits                              |
+|--------------------------------|-----------------------|---------------------------------------------|-----------------------------------------------------|
+| Banxa spread & card fees       | 1–2% on the $1.50     | Banxa (payment processor)                   | Covers card processing, KYC, compliance             |
+| 2% exit fee on QUBIC portion   | 2% of the $0.50 QUBIC | Treasury                                    | Long-term protocol revenue when users eventually leave |
+| 50% of qEarn yield             | Ongoing staking APY   | Treasury                                    | Perpetual funding for listings, marketing, dev, rewards |
+| 50% of qEarn yield             | Ongoing staking APY   | The depositor (you)                         | Passive income just for holding qUSD                |
 
-### Key facts
+### User experience – exact wallet flow
 
-- No over-collateral, no liquidation, no daily fees, no complexity  
-- Every qUSD = real dollar paid by someone’s card  
-- Protocol earns ~33–36% gross margin on every mint (the QUBIC portion)  
-- Minimum kept at 50 qUSD to keep Banxa fees reasonable and discourage micro-spam
+1. Open official Qubic wallet → tap **“Deposit & Mint qUSD”**  
+2. Enter any amount (minimum $50 qUSD order)  
+3. Deposit **X USD + 50% of X in QUBIC value**  
+4. Pay with debit/credit card (100+ countries)  
+5. In <15 seconds → receive **exactly X qUSD**  
+6. Your USD is always redeemable 1:1, forever  
+7. Your QUBIC earns yield forever (you keep half)  
+8. Want out? Burn qUSD → get full USD back + 98% of your original QUBIC + all your earned yield
 
-### Wallet screen one-liner
+### Wallet screen text 
 
-“Buy minimum 50 qUSD with card for ~$76.  
-Real 1:1 USD backing + earn yield by locking. Protocol keeps ~$26 QUBIC profit per order.”
+“Deposit $1 USD + $0.50 in QUBIC → instantly get 1 qUSD  
+Your $1 is always redeemable 1:1 for real USD  
+Your QUBIC earns staking yield forever (you keep 50%)  
+Withdraw anytime – only 2% fee on the QUBIC side”
 
-This is the final, permanent system.  
-When Banxa goes live → we go live with exactly this.  
-Nothing else exists anymore.
+### Key facts 
 
-Copy, paste, ship, dominate.
+- Every qUSD = real USD someone actually paid  
+- Zero liquidation risk  
+- Zero over-collateral complexity  
+- Zero daily fees  
+- Users can earn real yield just by holding  
+- Protocol has perpetual revenue from yield split + 2% exit fee  
+- Minimum order: 50 qUSD (~$76–$78 total)
