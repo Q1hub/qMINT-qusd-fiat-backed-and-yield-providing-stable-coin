@@ -46,6 +46,6 @@ Withdraw anytime – only 5% fee on the QUBIC side”
 - Zero liquidation risk  
 - Zero over-collateral complexity  
 - Zero daily fees  
-- Users can earn real yield just by holding  
+- Users can earn real yield just by minting qUSD 
 - Protocol has perpetual revenue from yield split + 5% exit fee  
 - Minimum order: 50 qUSD (~$76–$78 total)
